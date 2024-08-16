@@ -3,6 +3,7 @@
 // race: god demon human beast dragon elf machina
 const data = [
   { id: 2863, attr: 'fire', race: 'god', branch: 4 },
+  { id: 2886, attr: 'dark', race: 'machina' },
   { id: 2907, attr: 'water', race: 'demon' },
   // { id: 10427, attr: 'light', race: 'human' },
   { id: 10495, attr: 'dark', race: 'human' },
@@ -14,6 +15,7 @@ const data = [
   { id: 10592, attr: 'fire', race: 'demon' },
   { id: 10613, attr: 'fire', race: 'machina' },
   { id: 10647, attr: 'fire', race: 'human' },
+  { id: 10726, attr: 'dark', race: 'machina', branch: 2 },
 ];
 
 export default data;
