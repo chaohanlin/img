@@ -5,6 +5,7 @@ const data = [
   { id: 2863, attr: 'fire', race: 'god', branch: 4 },
   { id: 2886, attr: 'dark', race: 'machina' },
   { id: 2907, attr: 'water', race: 'demon' },
+  { id: 3009, attr: 'dark', race: 'god' },
   // { id: 10427, attr: 'light', race: 'human' },
   { id: 10495, attr: 'dark', race: 'human' },
   // { id: 10502, attr: 'water', race: 'elf' },
