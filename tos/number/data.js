@@ -17,6 +17,7 @@ const data = [
   { id: 10613, attr: 'fire', race: 'machina' },
   { id: 10647, attr: 'fire', race: 'human' },
   { id: 10726, attr: 'dark', race: 'machina', branch: 2 },
+  { id: 10732, attr: 'water', race: 'human' },
 ];
 
 export default data;
